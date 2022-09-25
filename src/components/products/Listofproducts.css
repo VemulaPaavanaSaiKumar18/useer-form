@@ -1,0 +1,29 @@
+.product-container {
+  width: 64rem;
+  height: auto;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  margin: 2rem 0 0 15rem;
+  background: blue;
+  padding: 20px;
+  border-radius: 10px;
+}
+.product {
+  width: 20rem;
+  height: 10rem;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 400;
+  border-radius: 10px;
+  background-color: yellowgreen;
+  line-height: 1cm;
+  align-content: center;
+}
+.add-new-products {
+  text-decoration: none;
+  background-color: yellowgreen;
+  border-radius: 10px;
+  padding: 10px;
+  margin-bottom: 7rem;
+  color: black;
+}
